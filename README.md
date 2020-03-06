@@ -1,5 +1,8 @@
-# icon price gnome ticket 
+# icon gnome price ticker
 
-Gnome 3 desktop ticker for icon price with Python and argos. Rename to icon.1r.60s.py and put in ~/.config/argos
+Get icon price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/icon-price-gnome-ticket/](https://codesharedot.github.io/icon-price-gnome-ticket/)
 
-https://pythonbasics.org
+icon price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to icon.1r60s.py and put in ~/.config/argos
